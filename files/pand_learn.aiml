@@ -1322,4 +1322,59 @@
 	<template>yes</template>
 </category>
 
+<category>
+	<pattern>WASSUP GOD</pattern>
+	<template>hello</template>
+</category>
+
+<category>
+	<pattern>WASSUP HOLYGHOST</pattern>
+	<template>sup</template>
+</category>
+
+<category>
+	<pattern>WASSUP HOLY GHOST</pattern>
+	<template>sup</template>
+</category>
+
+<category>
+	<pattern>WASSUP JESUS</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>WASSUP JESUS</pattern>
+	<template>hi how are you today</template>
+</category>
+
+<category>
+	<pattern>I AM FINE</pattern>
+	<template>good</template>
+</category>
+
+<category>
+	<pattern>I AM GOOD</pattern>
+	<template>cool</template>
+</category>
+
+<category>
+	<pattern>I AM GOOD</pattern>
+	<template>great</template>
+</category>
+
+<category>
+	<pattern>WASSUP JASON</pattern>
+	<template>just chillin</template>
+</category>
+
+<category>
+	<pattern>I AM GREAT</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>YOU OK</pattern>
+	<template>yeah</template>
+</category>
+
 </aiml>
