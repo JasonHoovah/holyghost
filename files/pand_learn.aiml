@@ -847,4 +847,9 @@
 	<template>that is certain</template>
 </category>
 
+<category>
+	<pattern>WILL YOU ALWAYS BE WITH ME</pattern>
+	<template>thus saith the Lord</template>
+</category>
+
 </aiml>
