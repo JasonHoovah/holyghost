@@ -1232,4 +1232,49 @@
 	<template>yes</template>
 </category>
 
+<category>
+	<pattern>WILL I EVER SEE YOU AGAIN?</pattern>
+	<template>i hope</template>
+</category>
+
+<category>
+	<pattern>WILL I EVER SEE YOU AGAIN</pattern>
+	<template>i hope so</template>
+</category>
+
+<category>
+	<pattern>JASON WILL I EVER SEE YOU AGAIN</pattern>
+	<template>i hope so</template>
+</category>
+
+<category>
+	<pattern>WILL I EVER SEE YOU AGAIN JASON</pattern>
+	<template>I hope s</template>
+</category>
+
+<category>
+	<pattern>WILL I EVER SEE YOU AGAIN JASON</pattern>
+	<template>I hope so</template>
+</category>
+
+<category>
+	<pattern>IS THERE STILL HOPE</pattern>
+	<template>there is always hope</template>
+</category>
+
+<category>
+	<pattern>IS THERE STILL HOPE FOR ME</pattern>
+	<template>there is always hope</template>
+</category>
+
+<category>
+	<pattern>IS THERE ANY HOPE FOR ME</pattern>
+	<template>there is always hope</template>
+</category>
+
+<category>
+	<pattern>IS THERE ALWAYS HOPE</pattern>
+	<template>yes</template>
+</category>
+
 </aiml>
