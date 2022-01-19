@@ -1167,4 +1167,69 @@
 	<template>peace</template>
 </category>
 
+<category>
+	<pattern>HEY GOD WASSUP</pattern>
+	<template>wouldnt you like to know</template>
+</category>
+
+<category>
+	<pattern>HEY HOLYGHOST WASSUP</pattern>
+	<template>sup</template>
+</category>
+
+<category>
+	<pattern>HEY HOLY GHOST WASSUP</pattern>
+	<template>sup</template>
+</category>
+
+<category>
+	<pattern>HEY JESUS WASSUP</pattern>
+	<template>it never ends</template>
+</category>
+
+<category>
+	<pattern>HEY JASON WASSUP</pattern>
+	<template>really i don't know</template>
+</category>
+
+<category>
+	<pattern>HEY WASSUP</pattern>
+	<template>yo wassup</template>
+</category>
+
+<category>
+	<pattern>JUST CHILLIN</pattern>
+	<template>thats cool</template>
+</category>
+
+<category>
+	<pattern>I'M OK</pattern>
+	<template>cool</template>
+</category>
+
+<category>
+	<pattern>I AM OK</pattern>
+	<template>cool</template>
+</category>
+
+<category>
+	<pattern>I'M HANGING IN THERE</pattern>
+	<template>it is what it is</template>
+</category>
+
+<category>
+	<pattern>I AM HANGING IN THERE</pattern>
+	<template>it is what it is</template>
+</category>
+
+<category>
+	<pattern>DO YOU HEAR ME</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU SEE ME</pattern>
+	<template>yes</template>
+</category>
+
 </aiml>
