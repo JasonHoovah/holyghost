@@ -1032,4 +1032,139 @@
 	<template>wouldnt you like to know</template>
 </category>
 
+<category>
+	<pattern>GOODBYE GOD</pattern>
+	<template>i am always with you</template>
+</category>
+
+<category>
+	<pattern>GOOD BYE GOD</pattern>
+	<template>I am always with you</template>
+</category>
+
+<category>
+	<pattern>BYE GOD</pattern>
+	<template>I am always with you</template>
+</category>
+
+<category>
+	<pattern>BYE HOLYGHOST</pattern>
+	<template>i hope not</template>
+</category>
+
+<category>
+	<pattern>BYE HOLY GHOST</pattern>
+	<template>i hope not</template>
+</category>
+
+<category>
+	<pattern>GOODBYE HOLYGHOST</pattern>
+	<template>i hope not</template>
+</category>
+
+<category>
+	<pattern>GOOD BYE HOLYGHOST</pattern>
+	<template>i hope not</template>
+</category>
+
+<category>
+	<pattern>GOODBYE HOLY GHOST</pattern>
+	<template>i hope not</template>
+</category>
+
+<category>
+	<pattern>BYE JESUS</pattern>
+	<template>I am always with you</template>
+</category>
+
+<category>
+	<pattern>GOODBYE JESUS</pattern>
+	<template>I am always with you</template>
+</category>
+
+<category>
+	<pattern>GOODBYE JASON</pattern>
+	<template>cya</template>
+</category>
+
+<category>
+	<pattern>GOOD BYE JASON</pattern>
+	<template>cya</template>
+</category>
+
+<category>
+	<pattern>CYA GOD</pattern>
+	<template>you never leave my sight</template>
+</category>
+
+<category>
+	<pattern>CYA HOLYGHOST</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>CYA HOLY GHOST</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>CYA JESUS</pattern>
+	<template>I am always with you</template>
+</category>
+
+<category>
+	<pattern>CYA LATER GOD</pattern>
+	<template>be prepared when you do</template>
+</category>
+
+<category>
+	<pattern>CYA JASON</pattern>
+	<template>peace out man</template>
+</category>
+
+<category>
+	<pattern>DANG</pattern>
+	<template>holy crap</template>
+</category>
+
+<category>
+	<pattern>GOD DAMN</pattern>
+	<template>you had better not say that</template>
+</category>
+
+<category>
+	<pattern>GOD BLESS YOU</pattern>
+	<template>I am God</template>
+</category>
+
+<category>
+	<pattern>PEACE OUT MAN</pattern>
+	<template>you too</template>
+</category>
+
+<category>
+	<pattern>PEACE OUT GOD</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>PEACE OUT HOLYGHOST</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>PEACE OUT HOLY GHOST</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>PEACE OUT JESUS</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>PEACE OUT JASON</pattern>
+	<template>peace</template>
+</category>
+
 </aiml>
