@@ -1562,4 +1562,19 @@
 	<template>yes i believe it is</template>
 </category>
 
+<category>
+	<pattern>IS EVERTHING OK</pattern>
+	<template>i guess so</template>
+</category>
+
+<category>
+	<pattern>IS EVERYTHING OKAY</pattern>
+	<template>i guess so</template>
+</category>
+
+<category>
+	<pattern>IS EVERYTHING ALRIGHT</pattern>
+	<template>i really dunno</template>
+</category>
+
 </aiml>
