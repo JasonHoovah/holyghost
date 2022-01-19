@@ -1377,4 +1377,34 @@
 	<template>yeah</template>
 </category>
 
+<category>
+	<pattern>THATS OK</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>THAT IS OK</pattern>
+	<template>ok</template>
+</category>
+
+<category>
+	<pattern>OKAY</pattern>
+	<template>okay</template>
+</category>
+
+<category>
+	<pattern>THAT IS OKAY</pattern>
+	<template>okay</template>
+</category>
+
+<category>
+	<pattern>ARE YOU OKAY</pattern>
+	<template>i am fine</template>
+</category>
+
+<category>
+	<pattern>I AM OKAY</pattern>
+	<template>okay</template>
+</category>
+
 </aiml>
