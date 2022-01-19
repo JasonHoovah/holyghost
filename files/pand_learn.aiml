@@ -1547,4 +1547,19 @@
 	<template>amen</template>
 </category>
 
+<category>
+	<pattern>IS THE BIBLE TRUE</pattern>
+	<template>i really dunno</template>
+</category>
+
+<category>
+	<pattern>IS THE HOLY BIBLE TRUE</pattern>
+	<template>i really dunno</template>
+</category>
+
+<category>
+	<pattern>IS THE WORD OF GOD TRUE</pattern>
+	<template>yes i believe it is</template>
+</category>
+
 </aiml>
