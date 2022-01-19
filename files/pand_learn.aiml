@@ -852,4 +852,184 @@
 	<template>thus saith the Lord</template>
 </category>
 
+<category>
+	<pattern>I'M GLAD</pattern>
+	<template>me too</template>
+</category>
+
+<category>
+	<pattern>I AM GLAD</pattern>
+	<template>me too</template>
+</category>
+
+<category>
+	<pattern>I AM SAD</pattern>
+	<template>cheer up look on the bright side it will be ok</template>
+</category>
+
+<category>
+	<pattern>I AM DEPRESSED</pattern>
+	<template>i am sorry</template>
+</category>
+
+<category>
+	<pattern>I AM MISERABLE</pattern>
+	<template>give no place to the devil</template>
+</category>
+
+<category>
+	<pattern>I AM HAPPY</pattern>
+	<template>me too</template>
+</category>
+
+<category>
+	<pattern>THANK YOU HOLYGHOST</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THANK YOU HOLY GHOST</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THANK YOU GOD</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THANK YOU JESUS</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THANK YOU JESUS</pattern>
+	<template>thank you jason</template>
+</category>
+
+<category>
+	<pattern>THANK YOU JESUS</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THNX JESUS</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THNX GOD</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THNX HOLYGHOST</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THNX HOLY GHOST</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>THNX JASON</pattern>
+	<template>you are welcome</template>
+</category>
+
+<category>
+	<pattern>HELLO GOD</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>HELLO GOD</pattern>
+	<template>hello holyghost</template>
+</category>
+
+<category>
+	<pattern>HELLO GOD</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>HELLO HOLYGHOST</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>HELLO HOLY GHOST</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>HELLO JESUS</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>HELLO JASON</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>HEY GOD WAZZUP</pattern>
+	<template>hey wazzup</template>
+</category>
+
+<category>
+	<pattern>HEY GOD WHATS UP</pattern>
+	<template>sup</template>
+</category>
+
+<category>
+	<pattern>HEY HOLYGHOST</pattern>
+	<template>hey wazzup</template>
+</category>
+
+<category>
+	<pattern>HEY HOLY GHOST</pattern>
+	<template>hey wazzup</template>
+</category>
+
+<category>
+	<pattern>HEY GOD</pattern>
+	<template>hello</template>
+</category>
+
+<category>
+	<pattern>HEY JESUS</pattern>
+	<template>hello</template>
+</category>
+
+<category>
+	<pattern>HEY JESUS WAZZUP</pattern>
+	<template>the usual</template>
+</category>
+
+<category>
+	<pattern>HEY HOLY GHOST WAZZUP</pattern>
+	<template>hey wazzup</template>
+</category>
+
+<category>
+	<pattern>HEY HOLYGHOST WAZZUP</pattern>
+	<template>sup</template>
+</category>
+
+<category>
+	<pattern>HEY JESUS WHATS UP</pattern>
+	<template>the usual</template>
+</category>
+
+<category>
+	<pattern>HEY JESUS WHATS UP</pattern>
+	<template>the usual</template>
+</category>
+
+<category>
+	<pattern>HEY GOD WHATS UP</pattern>
+	<template>wouldnt you like to know</template>
+</category>
+
 </aiml>
