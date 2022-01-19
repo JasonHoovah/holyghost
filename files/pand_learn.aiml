@@ -1577,4 +1577,9 @@
 	<template>i really dunno</template>
 </category>
 
+<category>
+	<pattern>WORD</pattern>
+	<template>word</template>
+</category>
+
 </aiml>
