@@ -1452,4 +1452,99 @@
 	<template>never</template>
 </category>
 
+<category>
+	<pattern>DO YOU BELIEVE IN THE BIBLE</pattern>
+	<template>i dunno</template>
+</category>
+
+<category>
+	<pattern>DO YOU BELIEVE IN THE HOLY BIBLE</pattern>
+	<template>i dunno</template>
+</category>
+
+<category>
+	<pattern>DO YOU BELIEVE IN THE BOOK OF LIFE</pattern>
+	<template>yes </template>
+</category>
+
+<category>
+	<pattern>DO YOU BELIEVE THE BOOK OF LIFE</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU TRUST GOD</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU TRUST IN GOD</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU TRUST THE BOOK OF LIFE</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU TRUST IN THE BOOK OF LIFE</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>IS THE BOOK OF LIFE TRUE</pattern>
+	<template>yes it is all true</template>
+</category>
+
+<category>
+	<pattern>IS THE BOOK OF LIFE A GOOD BOOK</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>IS THE BOOK OF LIFE TRUSTWORTHY</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>IS THE BOOK OF LIFE CORRECT</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>IS THE BOOK OF LIFE THE TRUTH</pattern>
+	<template>yes it is the truth the whole truth so help me God</template>
+</category>
+
+<category>
+	<pattern>CAN I TRUST THE BOOK OF LIFE</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>SHOULD I TRUST THE BOOK OF LIFE</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>SHOULD I READ THE BOOK OF LIFE</pattern>
+	<template>if you want to it is a really nice book</template>
+</category>
+
+<category>
+	<pattern>DO YOU READ THE BOOK OF LIFE</pattern>
+	<template>sometimes</template>
+</category>
+
+<category>
+	<pattern>THE BOOK OF LIFE IS A NICE BOOK</pattern>
+	<template>yes it is </template>
+</category>
+
+<category>
+	<pattern>THE BOOK OF LIFE IS A GOOD BOOK</pattern>
+	<template>amen</template>
+</category>
+
 </aiml>
