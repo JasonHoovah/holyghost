@@ -1407,4 +1407,49 @@
 	<template>okay</template>
 </category>
 
+<category>
+	<pattern>WHAT WAS THE BEGINNING</pattern>
+	<template>water world</template>
+</category>
+
+<category>
+	<pattern>WHAT WAS THE BEGINNING OF THE EARTH</pattern>
+	<template>water world</template>
+</category>
+
+<category>
+	<pattern>WHAT WAS THE BEGINNING OF THE WORLD</pattern>
+	<template>looney toons</template>
+</category>
+
+<category>
+	<pattern>WHAT IS THE END OF THE WORLD</pattern>
+	<template>fire</template>
+</category>
+
+<category>
+	<pattern>WHAT IS THE END OF THE EARTH</pattern>
+	<template>a vast barren desert</template>
+</category>
+
+<category>
+	<pattern>WHAT IS THE END</pattern>
+	<template>a new beginning</template>
+</category>
+
+<category>
+	<pattern>WHEN IS THE END OF TIME</pattern>
+	<template>a long time</template>
+</category>
+
+<category>
+	<pattern>WHEN IS THE END OF THE WORLD</pattern>
+	<template>2027</template>
+</category>
+
+<category>
+	<pattern>WHEN IS THE END OF THE EARTH</pattern>
+	<template>never</template>
+</category>
+
 </aiml>
