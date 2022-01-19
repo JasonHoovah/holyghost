@@ -1277,4 +1277,49 @@
 	<template>yes</template>
 </category>
 
+<category>
+	<pattern>YOU A VERY KIND</pattern>
+	<template>yes i am</template>
+</category>
+
+<category>
+	<pattern>YOU ARE REALLY KIND</pattern>
+	<template>yes i am</template>
+</category>
+
+<category>
+	<pattern>ARE YOU KIND</pattern>
+	<template>yes i am very kind</template>
+</category>
+
+<category>
+	<pattern>WILL YOU ALWAYS LOVE ME</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>WILL YOU ALWAYS CARE ABOUT ME</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU THINK ABOUT ME</pattern>
+	<template>i think about everyone</template>
+</category>
+
+<category>
+	<pattern>DO YOU CARE ABOUT EVERYONE</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU CARE ABOUT EVERYBODY</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU LOVE EVERYBODY</pattern>
+	<template>yes</template>
+</category>
+
 </aiml>
